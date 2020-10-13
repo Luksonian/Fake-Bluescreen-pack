@@ -1,2 +1,1 @@
-Fake bluescreen pack
-to exit the screen press F7
+To exit the screen press F7
